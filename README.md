@@ -19,7 +19,7 @@ We experimented with KNN, Random Forest, Catboost, SVM, Naive Bayes, XGboost as 
 |   Accuracy Kaggle  | 71.04% |     62.1%     |   68.0%  | 61.39% |    57.86%   |  69.14% |
 
 
-During the training, we tried GridSearchCV to fine tuning the hyper parameters.
+During the training, we did fine tuning the hyper parameters using GridSearchCV.
 
 
 ## Evaluation
